@@ -1,5 +1,4 @@
-# Step-by-Step Guide to Setting Up SNS, IAM Policies, and Lambda Integration
-
+![github-header-image-5](https://github.com/user-attachments/assets/578e003e-be66-4374-8b72-e2c80b06bc45)
 ## 1. Set Up SNS (Simple Notification Service)
 
 ### Step 1: Create a Topic
